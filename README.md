@@ -18,3 +18,12 @@ userstyle | install
 [WhatsApp](https://gitlab.com/vednoc/onyx) | [![Install with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://rawgit.com/vednoc/onyx/master/WhatsApp.user.css)
 
 Note: Main repository for WhatsApp is still hosted on [GitHub](https://github.com/vednoc/onyx). 
+
+
+# Customizing colors
+
+To switch between colors you can use the following userstyle. It comes in handy if you switch between light/dark color-schemes very frequently.
+
+userstyle | install
+------------ | -------
+[Theme Switcher](https://gitlab.com/vednoc/theme_switcher) | [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://gitlab.com/vednoc/theme_switcher/raw/master/scheme.user.css)
