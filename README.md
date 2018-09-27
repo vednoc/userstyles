@@ -22,6 +22,7 @@ Project page | Install
 [GitLab](https://gitlab.com/vednoc/dark-gitlab) | [![Install with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://gitlab.com/vednoc/dark-gitlab/raw/master/gitlab.user.css)
 [ProtonMail](https://gitlab.com/vednoc/dark-protonmail) | [![Install with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://gitlab.com/vednoc/dark-protonmail/raw/master/protonmail.user.css)
 [Tenda](https://gitlab.com/vednoc/dark-tenda) | [![Install with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://gitlab.com/vednoc/dark-tenda/raw/master/tenda.user.styl)
+[Stylus](https://gitlab.com/vednoc/dark-stylus) | [![Install with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://gitlab.com/vednoc/dark-stylus/raw/master/stylus.user.styl)
 [WhatsApp](https://gitlab.com/vednoc/onyx) | [![Install with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://rawgit.com/vednoc/onyx/master/WhatsApp.user.css)
 
 Note: Main repository for WhatsApp is still hosted on [GitHub](https://github.com/vednoc/onyx). 
