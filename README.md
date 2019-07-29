@@ -12,8 +12,8 @@ A collection of userstyles created by me.
 
 - [DevDocs](https://gitlab.com/vednoc/dark-devdocs)
 - [Discord](https://gitlab.com/vednoc/dark-discord)
-- [Genius](https://gitlab.com/vednoc/dark-gitlab)
-- [GitLab](https://gitlab.com/vednoc/dark-genius)
+- [Genius](https://gitlab.com/vednoc/dark-genius)
+- [GitLab](https://gitlab.com/vednoc/dark-gitlab)
 - [HackerNews](https://gitlab.com/vednoc/dark-hackernews)
 - [ProtonMail](https://gitlab.com/vednoc/dark-protonmail)
 - [Stylus](https://gitlab.com/vednoc/dark-stylus)
