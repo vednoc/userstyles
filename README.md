@@ -1,33 +1,38 @@
-# Info
-
-A central place from which you can install my userstyles. More UserCSS styles made by others can be found on GitHub at [DarkWeb](https://github.com/RaitaroH/DarkWeb).
-
+A collection of userstyles created by me.
 
 ## Setup
 
-1. Get [Stylus](https://add0n.com/stylus.html) for your browser. It will not work if you don't have it.
-2. Click on Install with Stylus button and confirm that you want to install the userstyle.
+1. Install [Stylus][] extension for your browser;
+2. Browse the userstyles, and install from the repositories;
+3. Open Stylus popout and customize colors and options.
 
-
-## Contribute
-
-Any form of contribution is very appreciated. If you'd like to tip me then you can buy me a [ko-fi](https://ko-fi.com/vednoc).
-
+[Stylus]: https://github.com/openstyles/stylus
 
 ## Userstyles
 
-- [Instagram](https://gitlab.com/vednoc/dark-instagram)
-- [GitLab](https://gitlab.com/vednoc/dark-gitlab)
+- [DevDocs](https://gitlab.com/vednoc/dark-devdocs)
+- [Discord](https://gitlab.com/vednoc/dark-discord)
+- [Genius](https://gitlab.com/vednoc/dark-gitlab)
+- [GitLab](https://gitlab.com/vednoc/dark-genius)
+- [HackerNews](https://gitlab.com/vednoc/dark-hackernews)
 - [ProtonMail](https://gitlab.com/vednoc/dark-protonmail)
-- [Tenda](https://gitlab.com/vednoc/dark-tenda)
 - [Stylus](https://gitlab.com/vednoc/dark-stylus)
-- [WhatsApp](https://gitlab.com/vednoc/onyx)
+- [Tenda](https://gitlab.com/vednoc/dark-tenda)
+- [WhatsApp](https://github.com/vednoc/onyx)
 
-Note: Main repository for WhatsApp is still hosted on [GitHub](https://github.com/vednoc/onyx). 
+Note: Userstyle for WhatsApp is still hosted on GitHub and only mirrored to
+GitLab for the time being.
 
+Tip: Use my [Theme Switcher][] to quickly switch between light/dark
+color-schemes on the fly. It also works with userstyles made by [RaitaroH][].
 
-## Customizing colors
+[RaitaroH]: https://gitlab.com/RaitaroH
+[Theme Switcher]: https://gitlab.com/vednoc/theme_switcher
 
-Every userstyle comes with the ability to choose your own colors. To switch between different colors it'd the best if you get the following userstyle. It comes in handy when switching between light/dark color-schemes very frequently.
+## Contribute
 
-- [Theme Switcher](https://gitlab.com/vednoc/theme_switcher)
+Any contribution is greatly appreciated. If you find my work useful, consider
+supporting me on [ko-fi][] or on [LiberaPay][].
+
+[ko-fi]: https://ko-fi.com/vednoc
+[LiberaPay]: https://liberapay.com/vednoc
