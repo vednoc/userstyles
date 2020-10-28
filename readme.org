@@ -1,0 +1,36 @@
+* Userstyles
+A list that contains all my userstyles.
+
+** Installation
+1. Install [[https://github.com/openstyles/stylus][Stylus]] extension for your browser
+2. Browse and install userstyles from their repositories
+
+** Configuration
+1. Click on Stylus icon on your toolbar
+2. Open the configuration menu by clicking on the gear icon
+3. Have fun customizing custom features and colors to your preferences
+
+** Userstyles
+All userstyles are hosted on GitLab with the only two exceptions being
+Dark-WhatsApp and Dark-GitHub. Mirrors for both git platforms are available.
+
++ [[https://gitlab.com/vednoc/dark-devdocs][Dark-DevDocs]] ([[https://github.com/vednoc/dark-devdocs][GitHub mirror]])
++ [[https://gitlab.com/vednoc/dark-discord][Dark-Discord]] ([[https://github.com/vednoc/dark-discord][GitHub mirror]])
++ [[https://github.com/vednoc/dark-github][Dark-GitHub]] ([[https://gitlab.com/vednoc/dark-github][GitLab mirror]])
++ [[https://gitlab.com/vednoc/dark-gitlab][Dark-GitLab]] ([[https://github.com/vednoc/dark-gitlab][GitHub mirror]])
++ [[https://gitlab.com/vednoc/dark-hackernews][Dark-HackerNews]] ([[https://github.com/vednoc/dark-hackernews][GitHub mirror]])
++ [[https://gitlab.com/vednoc/dark-instagram][Dark-Instagram]] ([[https://github.com/vednoc/dark-instagram][GitHub mirror]])
++ [[https://gitlab.com/vednoc/dark-protonmail][Dark-ProtonMail]] ([[https://github.com/vednoc/dark-protonmail][GitHub mirror]])
++ [[https://gitlab.com/vednoc/dark-stylus][Dark-Stylus]] ([[https://github.com/vednoc/dark-stylus][GitHub mirror]])
++ [[https://gitlab.com/vednoc/dark-switcher/][Dark-Switcher]] ([[https://github.com/vednoc/dark-switcher/][GitHub mirror]])
++ [[https://github.com/vednoc/dark-whatsapp][Dark-WhatsApp]] ([[https://gitlab.com/vednoc/dark-whatsapp][GitLab mirror]])
+
+Tip: Use Dark-Switcher to quickly switch between various light/dark
+color-schemes on the fly. It also works with userstyles made by [[https://github.com/RaitaroH][RaitaroH]].
+
+** Contributions
+Any contribution is greatly appreciated.
+
+If you like my projects and would like to tip me for my work, then you can:
+- Buy me a coffee over at [[https://ko-fi.com/vednoc][ko-fi]]
+- Support me over at [[https://liberapay.com/vednoc][LiberaPay]]
